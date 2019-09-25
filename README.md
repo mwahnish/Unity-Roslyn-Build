@@ -5,7 +5,7 @@ This Visual Studio project is used to compile the [.NET Compiler Platform ("Rosl
 * Microsoft.CodeAnalysis.Features
 
 ## Building
-A ready-to-use Unity package is available here. To build this project, do the following:
+A ready-to-use Unity package is available [here](https://github.com/mwahnish/Unity-Roslyn). To build this project, do the following:
 1. Clone the project
 2. Load "Roslyn Library.sln" in Visual Studio
 3. Set the Solution Configuration to release
