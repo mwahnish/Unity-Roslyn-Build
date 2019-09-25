@@ -20,3 +20,4 @@ del bin\Release\netstandard2.0\System.Threading.dll
 copy "Unity-artifacts\License.txt" "bin\Release\netstandard2.0\License.txt"
 copy "Unity-artifacts\package.json" "bin\Release\netstandard2.0\package.json"
 copy "Unity-artifacts\Roslyn Assembly.asmdef" "bin\Release\netstandard2.0\Roslyn Assembly.asmdef"
+copy "Unity-artifacts\Readme.md" "bin\Release\netstandard2.0\Readme.md"
