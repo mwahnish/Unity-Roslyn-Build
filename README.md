@@ -14,3 +14,6 @@ A ready-to-use Unity package is available here. To build this project, do the fo
 
 ## Contributions
 Merge requests are welcome! All candidate merges must compile in Unity 2019.1 and Unity 2018.1 to be accepted
+
+## License
+This project is released under the same license as Roslyn, the [Apache 2.0 License](https://github.com/mwahnish/Unity-Roslyn-Build/blob/master/LICENSE)
