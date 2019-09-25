@@ -13,7 +13,7 @@ A ready-to-use Unity package is available [here](https://github.com/mwahnish/Uni
 6. The output folder, "Roslyn Library\bin\Release\netstandard2.0" can be copied directly into Unity
 
 ## Contributions
-Merge requests are welcome! All candidate merges must compile in Unity 2019.1 and Unity 2018.1 to be accepted
+Merge requests are welcome! All candidate merges must compile in Unity 2019.1 and Unity 2018.1 to be accepted. In particular, testing and compatibility work needs to be done on Unity's various target runtime platforms, I.E. Xbox, Linux, Etc.
 
 ## License
 This project is released under the same license as Roslyn, the [Apache 2.0 License](https://github.com/mwahnish/Unity-Roslyn-Build/blob/master/LICENSE)
