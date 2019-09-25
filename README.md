@@ -1,5 +1,5 @@
 # Unity-Roslyn-Build
-This Visual Studio project is used to compile the [.NET Compiler Platform ("Roslyn")](https://github.com/dotnet/roslyn) in a form usable in the [Unity game engine](https://unity.com/).This project ingests Roslyn as a series of Nuget packages, and is configured to produce a build with all dependencies required to use Roslyn in Unity, including the extra files necessary to import using the package manager. The Roslyn packages currently included in this package are:
+This Visual Studio project is used to compile the [.NET Compiler Platform ("Roslyn")](https://github.com/dotnet/roslyn) in a form usable in the [Unity game engine](https://unity.com/). This project ingests Roslyn as a series of Nuget packages, and is configured to produce a build with all dependencies required to use Roslyn in Unity, including the extra files necessary to import using the package manager. The Roslyn packages currently included in this package are:
 * Microsoft.Net.Compilers
 * Microsoft.CodeAnalysis
 * Microsoft.CodeAnalysis.Features
